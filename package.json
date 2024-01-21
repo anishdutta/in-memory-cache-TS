@@ -1,0 +1,30 @@
+{
+  "name": "in-memory-cache-ts",
+  "version": "1.0.0",
+  "description": "A In-memory Cache System Design with TypeScript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishdutta/in-memory-cache-TS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishdutta/in-memory-cache-TS/issues"
+  },
+  "homepage": "https://github.com/anishdutta/in-memory-cache-TS#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.11"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.2"
+  }
+}
